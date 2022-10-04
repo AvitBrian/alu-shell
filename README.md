@@ -1,1 +1,1 @@
-0-current_working_directory prints the absolute path name of the current working directory
+all these directories contain my journey of learning shell and shell scripting.

@@ -10,8 +10,6 @@ while [ $minute -lt 60 ]
 do
 echo "$minute"
 ((minute++))
-sleep 0.5
 done
 ((hour++))
-sleep 1
 done

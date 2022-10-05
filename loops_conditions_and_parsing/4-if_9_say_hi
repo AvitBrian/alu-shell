@@ -10,5 +10,5 @@ while [ $i -lt 11 ]
 else
 	echo "Best School"
 	fi
-	let i++	
+	((i++))	
 done

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#listing lines containing the bash word
+ps aux | grep -i 'bash'
